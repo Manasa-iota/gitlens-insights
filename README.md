@@ -38,6 +38,7 @@ Pull Request:    https://github.com/httpie/cli/pull/1405
 
 --------------------------------------------------
 Repository Structure
+````text
 
 .
 ├── gitlens_insights.md               # Detailed GitLens analysis
@@ -45,7 +46,7 @@ Repository Structure
 └── screenshots/
     ├── _start_process.png  # Author: Batuhan Taskaya
     └── blame_view_comment_fix.png    # Modified by: Sadik Kuzu
-
+````
 --------------------------------------------------
 How to Reproduce
 
